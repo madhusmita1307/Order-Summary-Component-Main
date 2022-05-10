@@ -22,11 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./frontendchallenge1.png)
+<img src="https://github.com/madhusmita1307/Order-Summary-Component-Main/blob/011c51f7fa95c159c6762b5dbabed4f72291b881/images/frontendchallenge1.png">
+
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/madhusmita1307/Order-Summary-Component-Main)
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
@@ -43,7 +44,9 @@ Users should be able to:
 Some code snippets are given below, which helped me to reinforce my knowledge:
 
 ```css
+
 /* Learnt the @media query and how to display background pictures and colour*/
+
 @media screen and (max-width: 1440px) {
   body {
     background-image: url("images/pattern-background-mobile.svg");
@@ -67,7 +70,9 @@ Some code snippets are given below, which helped me to reinforce my knowledge:
     background-size: cover;
   }
 }
+
 ```
 
 
-Thank you.
+
+## Thank you.
