@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/madhusmita1307/Order-Summary-Component-Main)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://madhusmita1307.github.io/Order-Summary-Component-Main/)
 
 ## My process
 
